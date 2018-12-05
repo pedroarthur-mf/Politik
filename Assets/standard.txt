@@ -1,0 +1,354 @@
+#SAY.CapI.2.
+(Toc{audio=toc}, toc{audio=toc}, toc{audio=toc}...) {w=0.5}
+
+#SAY.CapI.15.Andrade
+Regina?
+
+#SAY.CapI.3.Regina
+Oiiiie!{wc} Andrade, não é?!{wc} Eu sou Regina, intermediária do Partido {b}{$partido}{/b}. Que bom te ver aqui! Fico muito feliz de ter mais um membro para o nosso partido. Principalmente alguém como você, que vai fazer a diferença nas campanhas!{wc} Qual é o cargo que você escolheu mesmo?
+
+#MENU.CapI.17
+Deputado Federal
+
+#MENU.CapI.18
+Senador
+
+#MENU.CapI.19
+Governador
+
+#MENU.CapI.20
+Presidente
+
+#SAY.CapI.22.Andrade
+Eu quero ser Deputado Federal!
+
+#SAY.CapI.41.Regina
+Agora tudo faz sentido! Foi por causa daquele teste do Buzzfeed, não foi?{wi} Vamos lá, então.
+
+#SAY.CapI.23.Regina
+O deputado federal é o nosso representante nacional popular eleito por voto direto com mandato de 4 anos, podendo concorrer a sucessivas reeleições.{wc} Como deputado, você terá o dever de legislar e ser um guardião das leis e dogmas constitucionais, propor alterar, revogar e derrogar as leis.
+
+#SAY.CapI.24.Regina
+Isso quer dizer que você será o responsável por por propor, discutir e aprovar leis e medidas provisórias (Aquelas propostas pelo presidente).{wc} Também será responsável por fiscalizar e controlar o poder Executivo e ainda, por aprovar o Orçamento da União.
+
+#SAY.CapI.25.Regina
+Você trouxe todos os documentos necessários, não é?
+
+#SAY.CapI.27.Regina
+Deixe-me ver...{wc}É brasileiro…{w=1} Tem mais de 21 anos…{w=1} Está em dia com obrigações militares…{w=1} É eleitor…{w=1} Não tem nenhuma pena pendente...{w=1} Mora aqui a algum tempo…{w=1} é filiado ao nosso partido...
+
+#SAY.CapI.28.Regina
+Está tudo certo! Você pode se candidatar!
+
+#SAY.CapI.70.Regina
+Vamos para sala de reunião? O partido todo está lá para decidir sobre as coligações para a campanha desse ano.
+
+#SAY.CapI.33.Regina
+Então, Andrade. Bem que você poderia ajudar ao nosso partido a escolher um outro partido para se coligar. {wc} Você sabe a importância de se coligar a outro partido não é?
+
+#MENU.CapI.35
+Sim
+
+#MENU.CapI.34
+Não
+
+#SAY.CapI.37.Andrade
+Na verdade... O que é coligação?
+
+#SAY.CapI.42.Regina
+Pois bem. Para lhe explicar sobre {b}coligação{/b}, primeiro você precisa entender o processo de {b}eleição proporcional{/b}.
+
+#SAY.CapI.38.Regina
+Nas {b}eleições proporcionais{/b}, quando um eleitor vota, o seu voto está indo para o partido.{wc} No final das votação, os partidos terão direitos a quantidade de  vagas proporcionais à porcentagem de votos que os candidatos deles receberem.
+
+#SAY.CapI.39.Regina
+Vamos supor que nosso partido receba {b}30%{/b} dos votos e o nosso estado tem direito de eleger 10 deputados federais.{wc} Isso quer dizer que o nosso partido possui direito a colocar {b}3 candidatos{/b} em cargos de deputados federais!{wc} Esses 3 deputados serão aqueles que, dentro do partido, receberam mais votos!
+
+#SAY.CapI.40.Regina
+No caso, se estivermos coligados a outros partidos, a porcentagem das cadeiras para o cargo é somada entre os partidos.{wc} Sendo assim, os candidatos que ocuparão o cargo são os mais votados entre todos dos partidos aliados, não importando quantos são de cadas partido.{wc} Isso quer dizer que o aumento de votos para a coligação pode ajudar a colocar mais gente do nosso partido no cargo!
+
+#SAY.CapI.48.Regina
+Já que você sabe o quão importante é se aliar a outros partidos,nos ajude a conseguir aliados que tenham a mesma ideologia política que a nossa. Sua opinião pode nos ajudar a escolher!{wc} Temos essas opções, o que você acha?
+
+#MENU.CapI.173
+Partido da Socialização - PS:
+Defende a reforma agrária e a justiça social.
+
+#MENU.CapI.174
+Partido dos Trabalhos Adiantados - PTA:
+Defende investimentos na educação e o estado laico.
+
+#MENU.CapI.175
+Partido Partidário - PP:
+Defende a conciliação entre as oposições e a manutenção do sistema capitalista para investimento social.
+
+#MENU.CapI.176
+Partido Movido à Dinheiro Investido - PMDI:
+Defende a pouca intervenção do estado na economia e a privatização.
+
+#MENU.CapI.177
+Partido da Nova Nova Brasília - PNNB:
+Defende o militarismo e a manutenção dos costumes tradicionais.
+
+#SAY.CapI.53.Regina
+Que ótima ideia! As ideias deles batem muito com as do nosso partido!
+
+#SAY.CapI.52.Regina
+Talvez não seja uma boa ideia... As ideias deles não batem muito com as nossas...
+
+#SAY.CapI.290.Regina
+Mas obrigado pela sua opinião mesmo assim!
+
+#SAY.CapI.56.
+Mas que dia cheio foi hoje, né?{w=5}{i} Até fiquei cansada...{/i}
+
+#SAY.CapI.57.
+Ah! Por falar nisso, amanhã precisamos começar a organizar à sua campanha eleitoral.{wc} Isso é muito importante pra gente conseguir mais votos e se tornar conhecido e influente na política de Nova Brasília! Vá pensando nas suas propostas! {wc}Lembre-se que você é candidato a deputado federal. Então cuidado com o que vai propor, hein?
+
+#SAY.CapI.63.
+Então, te vejo amanhã!{w=0.5} Tchaaau!
+
+#SAY.CapI.67.Andrade
+É claro que sei! Pode ficar tranquila.
+
+#SAY.CapI.273.Regina
+Já que a reunião acabou, é bom voltarmos pro escritório.
+
+#SAY.buzzfeed.59.
+Escolha um slogan para a sua campanha:
+
+#MENU.buzzfeed.6
+Construindo o poder da educação
+
+#MENU.buzzfeed.7
+A Brasília precisa ser Nova novamente
+
+#MENU.buzzfeed.8
+Salário, trabalho e terra
+
+#MENU.buzzfeed.9
+#PAZ
+
+#MENU.buzzfeed.10
+Respeito pelo seu dinheiro
+
+#SAY.buzzfeed.60.
+Escolha um novo Ministério para Nova Brasília:
+
+#MENU.buzzfeed.22
+Ministério de intercâmbios
+
+#MENU.buzzfeed.23
+Ministério contra as fake news
+
+#MENU.buzzfeed.24
+Ministério de separação do nordeste de Nova Brasília
+
+#MENU.buzzfeed.25
+Ministério de apoio aos militares aposentados
+
+#MENU.buzzfeed.26
+Ministério do 14° salário
+
+#SAY.buzzfeed.61.
+Escolha um jingle de campanha:
+
+#MENU.buzzfeed.38
+Um forró das antigas
+
+#MENU.buzzfeed.39
+Paródia de alguma música americana
+
+#MENU.buzzfeed.40
+Qualquer música que não seja gospel
+
+#MENU.buzzfeed.41
+O hit do momento
+
+#MENU.buzzfeed.42
+Música instrumental clássica
+
+#SAY.buzzfeed.62.
+Faça uma promessa impossível:
+
+#MENU.buzzfeed.54
+Intercâmbio no ensino fundamental
+
+#MENU.buzzfeed.55
+Bolsa novo iPhone
+
+#MENU.buzzfeed.56
+O governo paga todos os seus boletos
+
+#MENU.buzzfeed.57
+Salário mínimo de R$ 5.000,00
+
+#MENU.buzzfeed.58
+Todos os cidadãos terão 1 hectare de terra
+
+#MENU.Prologo.11
+Novo Jogo
+
+#MENU.Prologo.12
+Continuar
+
+#MENU.Prologo.13
+Opções
+
+#MENU.Prologo.14
+Creditos
+
+#SAY.Prologo.16.
+Bem-vinda(o) à {b}Nova Brasília{/b}!{wc} Nossa cidade é a capital da política. Temos uma população de cerca de 2.974.703 habitantes, sendo a terceira cidade mais populosa do país.{wc} Somos a quarta maior cidade da América Latina e, como capital nacional, sediamos os três poderes da república ({b}Executivo{/b}, {b}Legislativo{/b} e {b}judiciário{/b}).{wc} Você conhece os três poderes?
+
+#MENU.Prologo.17
+Sim. Já conheço
+
+#MENU.Prologo.18
+Três poderes? Acho que não
+
+#SAY.Prologo.21.
+Então pode deixar que eu te explico!
+
+#SAY.Prologo.20.
+O {b}Poder Executivo{/b} é responsável por executar, fiscalizar e gerir as leis de um país. {wc}Ele propõe planos de ação de administração e de fiscalização de diversos Programas (social, educação, cultura, saúde, infraestrutura) a fim de garantir qualidade e a eficácia dos mesmos.
+
+#SAY.Prologo.22.
+Já o {b}Poder Legislativo{/b} estabelece as leis que regem a sociedade e também fiscaliza o Poder Executivo de um país. Ele é composto pela Câmara de Deputados, o Senado, Parlamentos e Assembléias.
+
+#SAY.Prologo.23.
+E o {b}Poder Judiciário{/b} tem a função de aplicar as leis, julgar e interpretar os fatos e conflitos conforme a Constituição do Estado. {wc}É composto por juízes, promotores de justiça, desembargadores, ministros, representado por Tribunais, com destaque para o Supremo Tribunal Federal – STF.
+
+#SAY.Prologo.25.
+Tem certeza?{w=0.5} Essa informação será muito importante no decorrer do jogo…
+
+#MENU.Prologo.26
+Tenho certeza
+
+#MENU.Prologo.27
+Ta bom. Não sei...
+
+#SAY.Prologo.29.
+Tá bom então...
+
+#SAY.Prologo.31.
+Então... Esse ano é ano de eleição! Você já pensou em se candidatar a algum cargo?
+
+#MENU.Prologo.34
+Sim. Quero me candidatar!
+
+#MENU.Prologo.35
+Nunca Pensei a respeito...
+
+#SAY.Prologo.37.
+Sério?! Sempre achei que você levasse jeito para isso. Por que não faz esse teste que eu preparei pra você?{wc} Ele vai verificar se seus pensamentos tendem mais para esquerda ou direita. Você sabe o que isso significa né?
+
+#MENU.Prologo.50
+Sei sim
+
+#MENU.Prologo.51
+Não Sei
+
+#SAY.Prologo.45.
+Eu estava certo! Você realmente leva jeito para isso! {wc}Quem sabe com suas respostas podemos até ver um partido para você.{wc} Deixe-me ver... {w=2}
+
+#SAY.Prologo.46.
+Com base nas suas respostas, percebemos que você poderia se candidatar nesse partido. Suas ideias são parecidas com as dele.
+
+#SAY.Prologo.109.
+{color=blue}Partido da Nova Nova Brasília - PNNB:{/color}
+Defende o militarismo e a manutenção dos costumes tradicionais.
+
+#SAY.Prologo.110.
+{color=aqua}Partido Movido à Dinheiro Investido - PMDI:{/color}
+Defende a pouca intervenção do estado na economia e a privatização.
+
+#SAY.Prologo.111.
+{color=green}Partido Partidário - PP:{/color}
+Defende a conciliação entre as oposições e a manutenção do sistema capitalista para investimento social.
+
+#SAY.Prologo.112.
+{color=yellow}Partido dos Trabalhos Adiantados - PTA:{/color}
+Defende investimentos na educação e o estado laico.
+
+#SAY.Prologo.114.
+{color=red}Partido da Socialização - PS: {/color}
+Defende a reforma agrária e a justiça social.
+
+#SAY.Prologo.113.
+O valor da variável de partido não pode passar o intervalo entre 1 e -1.
+
+#SAY.Prologo.90.
+Você realmente deseja se filiar a ele, ou quer verificar outros?
+
+#MENU.Prologo.91
+Vou me filiar a esse partido mesmo.
+
+#MENU.Prologo.92
+Acho bom ver as outras opções.
+
+#SAY.Prologo.55.
+Ótimo!
+
+#SAY.Prologo.54.
+Então vou lhe explicar.
+
+#SAY.Prologo.93.
+Na política, {b}direita{/b} descreve uma visão que aceita hierarquia social como inevitável, geralmente ela justifica as coisas com base na tradição.{wc} O termo política de esquerda ou de direita surgiu na revolução francesa e referiam-se ao lugar que os políticos se sentavam no parlamento. Os que sentavam à direita eram amplamente favoráveis ao regime antigo.
+
+#SAY.Prologo.63.
+A {b}esquerda{/b} apoia a igualdade social e o igualitarismo, geralmente em oposição à hierarquia social. {wc}Normalmente envolve uma preocupação com cidadãos considerados em desvantagem e supõe que há desigualdades sem justificativa e que elas devem ser reduzidas. Atualmente, a esquerda tem sido usada para designar movimentos de direitos civis e ambientalistas.
+
+#SAY.Prologo.57.
+Então, agora vamos ao quiz!
+
+#SAY.Prologo.75.
+Esses são os partidos disponíveis para escolha. Qual desses você deseja se filiar?
+
+#MENU.Prologo.128
+Partido da Socialização - PS:
+Defende a reforma agrária e a justiça social.
+
+#MENU.Prologo.126
+Partido dos Trabalhos Adiantados - PTA:
+Defende investimentos na educação e o estado laico.
+
+#MENU.Prologo.127
+Partido Partidário - PP:
+Defende a conciliação entre as oposições e a manutenção do sistema capitalista para investimento social.
+
+#MENU.Prologo.124
+Partido Movido à Dinheiro Investido - PMDI:
+Defende a pouca intervenção do estado na economia e a privatização.
+
+#MENU.Prologo.123
+Partido da Nova Nova Brasília - PNNB:
+Defende o militarismo e a manutenção dos costumes tradicionais.
+
+#SAY.Prologo.78.
+Tem certeza que essa é a sua escolha?
+
+#MENU.Prologo.79
+Sim! tenho certeza.
+
+#MENU.Prologo.80
+Talvez seja melhor rever as opções...
+
+#SAY.Prologo.82.
+Finalmente encontramos um partido que é a sua cara!
+
+#SAY.Prologo.83.
+Te desejo boa sorte nessa nova jornada e espero que seja eleito de acordo com o que você acredita.
+
+#SAY.Prologo.84.
+Vá até a sede do partido e procure por Regina. Ela irá te ajudar de agora em diante. Te vejo em Nova Brasília!
+
+#CHARACTER.Character Name
+Character Name
+
+#CHARACTER.Regina
+Regina
+
+#CHARACTER.Andrade
+Andrade
+
